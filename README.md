@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Vinícius Matsuoka
-**UI/UX Designer & Full-stack Developer | Science and Technology Bachelor @ UNIFESP**
+**UI/UX Designer & Full-stack Developer | Trained @ UNIFESP**
 
 ### 💻 Tech Stack & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,mysql,react,materialui,ai,figma)](https://skillicons.dev)
